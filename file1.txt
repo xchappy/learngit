@@ -1,1 +1,2 @@
 This is file1.
+Git checkout -- <file> is discard the changes of u.
