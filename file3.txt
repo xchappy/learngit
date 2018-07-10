@@ -1,2 +1,3 @@
+do a test
 This is file3.
 
