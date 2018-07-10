@@ -1,1 +1,2 @@
 This is file2.
+git diff is the changes before.
